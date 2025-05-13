@@ -14,7 +14,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 3.Plot the scatter plot.
 
-4.Use Mse,Rmse,Mae formula to find the values. 
+4.Use MSE, RMSE, MAE formula to find the values. 
 
 ## Program:
 /*
